@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Skadii 👋
+🌱 I’m currently learning deep learning.
 <!--
 **lkq52110/lkq52110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
